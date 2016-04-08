@@ -8,6 +8,20 @@
   margin-bottom: 6rem;
 }
 
+.pi {
+  text-align: right;
+  padding: 1rem;
+}
+.pi  a:link  {
+  color: #000;
+  text-decoration: none;
+}
+.pi  a:visited {
+  color: #000;
+  text-decoration: none;
+}
+
+
 .section {
   padding: 8rem 0 7rem;
   text-align: center;
